@@ -1,6 +1,6 @@
 # Projet_01 Diamants
 ***
-Ce projet est mon tous premier en python. Je l'ai réalisé durant ma premiere année de BUT informatique.
+Ce projet est mon tout premier en python. Je l'ai réalisé durant ma premiere année de BUT informatique.
 ***
 ## Sommaire:
 1. Informations principales du jeu.
