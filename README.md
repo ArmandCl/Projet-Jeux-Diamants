@@ -1,5 +1,7 @@
 # Projet_01 Diamants
 ***
+Ce projet est mon tous premier en python. Je l'ai réalisé durant ma premiere année de BUT informatique.
+***
 ## Sommaire:
 1. Informations principales du jeu.
 2. Les différents prérequis pour pouvoir y jouer.
