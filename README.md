@@ -1,4 +1,4 @@
-# Sae_01 Diamants
+# Projet_01 Diamants
 ***
 ## Sommaire:
 1. Informations principales du jeu.
@@ -8,7 +8,6 @@
 5. Les problèmes rencontrés durant la conception du jeu et comment nous les avons surmontés.
 6. Les bugs connus qui peuvent arriver.
 7. Contributeurs du projet.
-8. Interface graphique
 
 ### <u> Informations générales sur le jeux: </u>
 Diamant est un jeu de cartes qui se joue entre 3 et 8 joueurs ; l'objectif est de récolter le plus de rubis possible en 5 manches.
@@ -48,8 +47,3 @@ D'autre part, il est fort probable durant la première manche que les rubis ne s
 Nous étions deux pour réaliser ce projet :  
 Armand Clouzeau en première année de BUT informatique à l'IUT de Vélizy.  
 Rayan Ben Tanfous en première année de BUT informatique à l'IUT de Vélizy.
-### <u> L'interface graphique : </u>
-Nous avons commencé à faire une interface graphique pour notre jeu mais nous n'avons pas eu le temps de réaliser l'interface graphique que nous aurions voulu.  
-Nous avons quand même ajouté le fichier "diamants_version_graphique.py" pour vous montrer notre avancement.
-
-
